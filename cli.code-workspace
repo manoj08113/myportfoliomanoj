@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../.vscode/cli"
+		},
+		{
+			"path": "../../../.vscode"
+		},
+		{
+			"path": "../../Desktop/New folder/clanguage"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
